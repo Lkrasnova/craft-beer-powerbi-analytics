@@ -1,0 +1,31 @@
+bar_id,bar_name,city,bar_type
+1,Bar #1 Brauhaus,Cologne,Craft Taproom
+2,Bar #2 Brauhaus,Munich,Sports Bar
+3,Bar #3 Craft,Frankfurt,Restaurant
+4,Bar #4 Pub,Munich,Restaurant
+5,Bar #5 Brauhaus,Munich,Sports Bar
+6,Bar #6 Craft,Cologne,Sports Bar
+7,Bar #7 Brauhaus,Hannover,Craft Taproom
+8,Bar #8 Pub,Cologne,Traditional Pub
+9,Bar #9 Pub,Berlin,Sports Bar
+10,Bar #10 Craft,Hamburg,Sports Bar
+11,Bar #11 Pub,Hannover,Craft Taproom
+12,Bar #12 Craft,Hamburg,Restaurant
+13,Bar #13 Brauhaus,Berlin,Sports Bar
+14,Bar #14 Brauhaus,Hannover,Traditional Pub
+15,Bar #15 Brauhaus,Hannover,Restaurant
+16,Bar #16 Brauhaus,Cologne,Sports Bar
+17,Bar #17 Craft,Munich,Craft Taproom
+18,Bar #18 Brauhaus,Frankfurt,Craft Taproom
+19,Bar #19 Brauhaus,Berlin,Sports Bar
+20,Bar #20 Craft,Cologne,Traditional Pub
+21,Bar #21 Pub,Berlin,Craft Taproom
+22,Bar #22 Pub,Frankfurt,Traditional Pub
+23,Bar #23 Brauhaus,Cologne,Restaurant
+24,Bar #24 Craft,Munich,Traditional Pub
+25,Bar #25 Craft,Cologne,Traditional Pub
+26,Bar #26 Pub,Hannover,Traditional Pub
+27,Bar #27 Pub,Berlin,Sports Bar
+28,Bar #28 Pub,Frankfurt,Restaurant
+29,Bar #29 Pub,Berlin,Sports Bar
+30,Bar #30 Pub,Berlin,Traditional Pub

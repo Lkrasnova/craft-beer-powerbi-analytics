@@ -1,0 +1,7 @@
+beer_id,beer_name,style,cost_per_l,price_per_l,shelf_life_days
+1,Helles Classic,Lager,1.2,4.5,90
+2,Bavarian Weiss,Wheat,1.4,4.8,60
+3,Hop Explosion,IPA,2.1,6.5,45
+4,Midnight Porter,Stout,1.9,5.8,120
+5,Tropical Sour,Sour,2.3,7.0,30
+6,Amber Ale,Ale,1.5,5.0,75
