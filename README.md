@@ -45,7 +45,7 @@ The primary goal of this business intelligence solution is to monitor cold-chain
 ---
 
 ## 📁 Repository Structure
-
+```text
 ├── data/                  # Synthetic CSV datasets
 ├── screenshots/           # High-resolution dashboard previews
 ├── generate_data.py       # Python script for dataset generation
